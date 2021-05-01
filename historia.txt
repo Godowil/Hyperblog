@@ -8,3 +8,4 @@ con la esperanza de mejorar sus ingresos ,
  y poder hacer frente a la hiperinflación que nos está matando.
 
  Es un trabajo titánico, porque hay muchos problemas con internet
+ Seguimos practicando con los comandos git.
