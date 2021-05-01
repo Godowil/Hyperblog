@@ -9,3 +9,5 @@ con la esperanza de mejorar sus ingresos ,
 
  Es un trabajo titánico, porque hay muchos problemas con internet
  Seguimos practicando con los comandos git.
+
+ Godofredo repasa las lecciones para poder asimilar contenidos.
