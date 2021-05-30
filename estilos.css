@@ -1,9 +1,23 @@
 body{
     font-family:serif ;
-    background-color: darkviolet;
+    background-color: #deb887;
     font-size: 25px;
     margin: 0;
     padding: 0;
+}
+.cabecera{
+    box-shadow: 0px 17px 41px 8px rgba(138,43,226,0.85);
+    background-color: #8a2be2;
+    color: #ffffff;
+    font-weight: bold;
+    margin: 0;
+    padding: 5px;
+    display: inline-block;
+}
+.cabecera-tag{
+    font-size: 24px;
+    color: #000000;
+    display: inline-block;
 }
 .container{
     width: 75%;
