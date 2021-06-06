@@ -29,14 +29,9 @@ body{
 
 .post{
     font-family: serif;
-<<<<<<< Updated upstream
-    font-size: 20px;
-    text-align: center;
-=======
     font-size: 26px;
     text-align: justify;
     padding: 5px;
->>>>>>> Stashed changes
 }
 h1{
     font-size: 24px;
